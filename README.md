@@ -2,7 +2,7 @@
 description: Assorted bag of Capture the Flag
 ---
 
-# ⛳ CTF
+# 🚩 CTF
 
 ## Herein exist my miscellaneous writeups
 
