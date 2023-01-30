@@ -16,7 +16,7 @@ strings steg.xcf
 
 The output is quite long, so I directed the output into an `out` file with `strings steg.xcf > out`
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Much easier to search</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Much easier to search</p></figcaption></figure>
 
 ## Flag
 

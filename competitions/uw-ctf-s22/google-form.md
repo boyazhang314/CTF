@@ -8,13 +8,13 @@
 
 The link brings us to a Google form with one question: `Get this question right to get to the flag!`
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Unfortunately, it won't be this easy...</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Unfortunately, it won't be this easy...</p></figcaption></figure>
 
 The hint tells us to try to inspect element, so let's give that a go
 
 Start with `CTRL-F` "flag" and we eventually find this juicy bit in the Elements tab
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fun fact: Inputting this flag into the form input is still incorrect!
 
