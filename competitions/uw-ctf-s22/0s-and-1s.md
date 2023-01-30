@@ -26,7 +26,6 @@ We can easily convert this string using online websites
 
 However, we could also code up a simple function in Python
 
-````python
 ```python
 def binToText(binary):
     text = ""
@@ -48,7 +47,6 @@ def binToText(binary):
     
     return text
 ```
-````
 
 <details>
 

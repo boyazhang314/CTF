@@ -33,7 +33,7 @@ And... nothing happens?
 
 Well except for the file seemingly deleting the text I painstakingly typed in. Also this error:
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Perhaps I should have tried learning vim as suggested by my university professors
 
@@ -62,6 +62,30 @@ The letters `hjpgs` are precisely 13 characters away from `uwctf`
 This is ROT 13
 
 {% embed url="https://rot13.com/" %}
+
+Equivalently write a quick Python function
+
+```python
+def rot13(word):
+    m = ''
+
+    # Iterate over each character in the word
+    for ch in word:
+        # Ignore if the character is a symbol or number
+        if not ch.isalpha():
+            m += ch
+            continue
+
+        # Convert the character to its numerical value ord(ch)
+        # Since it's lowercase, subtract 97 to get its position in the alphabet
+        # Add the offset 13
+        # Mod 26 to account for wrap around
+        # Add 97 back to get the lowercase letter
+        # Convert back into a character with ch(num)
+        m += chr((ord(ch) - 97 + 13) % 26 + 97)
+    
+    return m
+```
 
 It wasn't until later that I read the comment in this StackOverflow post which provided the answer
 

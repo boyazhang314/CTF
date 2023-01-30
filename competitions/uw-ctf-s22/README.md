@@ -12,7 +12,7 @@ Since this was my first CTF and I am a noob I partook in the noob division :sung
 
 Noobs had to participate on their own
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Tied for first</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Tied for first</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Stats</p></figcaption></figure>
 
@@ -25,3 +25,4 @@ Flags are of the format `uwctf{...}`
 | [Helikopter](helikopter.md)     | 24     | 11     |
 | [Meow](meow.md)                 | 24     | 11     |
 | [Google Form](google-form.md)   | 32     | 13     |
+| [WASM](wasm.md)                 | 7      | 36     |

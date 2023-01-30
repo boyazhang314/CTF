@@ -10,6 +10,9 @@
   * [Helikopter](competitions/uw-ctf-s22/helikopter.md)
   * [Meow](competitions/uw-ctf-s22/meow.md)
   * [Google Form](competitions/uw-ctf-s22/google-form.md)
+  * [Strings, literally](competitions/uw-ctf-s22/strings-literally.md)
+  * [WASM](competitions/uw-ctf-s22/wasm.md)
+  * [Audio](competitions/uw-ctf-s22/audio.md)
 
 ## 😇 Practice
 
