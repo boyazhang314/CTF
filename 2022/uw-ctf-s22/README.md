@@ -16,7 +16,7 @@ Noobs had to participate on their own
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Stats</p></figcaption></figure>
 
-Flags are of the format `uwctf{...}`
+**Flags are of the format `uwctf{...}`**
 
 | Challenges                      | Points | Solves |
 | ------------------------------- | ------ | ------ |

@@ -30,3 +30,5 @@
 * [🅿 PicoCTF](practice/picoctf/README.md)
   * [General](practice/picoctf/general/README.md)
     * [Obedient Cat](practice/picoctf/general/obedient-cat.md)
+  * [Cryptgoraphy](practice/picoctf/cryptgoraphy/README.md)
+    * [Mod 26](practice/picoctf/cryptgoraphy/mod-26.md)

@@ -16,7 +16,7 @@ The questions were quite challenging and I learned a lot :smile:
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Flags are of the format `retroCTF{...}`
+**Flags are of the format `retroCTF{...}`**
 
 ## Beginner Zone
 
