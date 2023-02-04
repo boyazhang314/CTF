@@ -20,7 +20,7 @@ This doesn't produce anything, most likely because we need to specify the port
 
 Googling "alternative port for HTTP" gives the following results
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ultimately, port 8080 is the one that gets the cat out of the bag
 

@@ -33,7 +33,7 @@ And... nothing happens?
 
 Well except for the file seemingly deleting the text I painstakingly typed in. Also this error:
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Perhaps I should have tried learning vim as suggested by my university professors
 

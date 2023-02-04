@@ -20,13 +20,13 @@ Their GitLab is linked :eyes:
 
 This houses all the code for the UW CTF website. We can see a very telling commit name
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 "Chall"? "Background"? Oho!
 
 Checking out the commit, we can see an image file change
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 There must be something very peculiar about the new image :thinking:
 
@@ -36,7 +36,7 @@ I would use Photoshop if I had it. Unfortunately, the only image software I know
 
 One of the images produced shows the flag, albeit very hard to read
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Flag
 

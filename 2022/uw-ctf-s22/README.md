@@ -1,5 +1,5 @@
 ---
-description: University of Waterloo's Spring 2022 CTF - Noob Division
+description: Flags from the University of Waterloo's Spring 2022 CTF - Noob Division
 ---
 
 # 🏁 UW CTF S22

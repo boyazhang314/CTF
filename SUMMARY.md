@@ -1,24 +1,32 @@
 # Table of contents
 
-* [🚩 CTF](README.md)
+* [Home](README.md)
 
-## 👿 Competitions
+## 2023
 
-* [🏁 UW CTF S22](competitions/uw-ctf-s22/README.md)
-  * [0s and 1s](competitions/uw-ctf-s22/0s-and-1s.md)
-  * [simple image](competitions/uw-ctf-s22/simple-image.md)
-  * [Helikopter](competitions/uw-ctf-s22/helikopter.md)
-  * [Meow](competitions/uw-ctf-s22/meow.md)
-  * [Google Form](competitions/uw-ctf-s22/google-form.md)
-  * [Strings, literally](competitions/uw-ctf-s22/strings-literally.md)
-  * [WASM](competitions/uw-ctf-s22/wasm.md)
-  * [Audio](competitions/uw-ctf-s22/audio.md)
-  * [Pwn0](competitions/uw-ctf-s22/pwn0.md)
-  * [YATD](competitions/uw-ctf-s22/yatd.md)
-  * [steg](competitions/uw-ctf-s22/steg.md)
-  * [Passwords](competitions/uw-ctf-s22/passwords.md)
-  * [Vitalik](competitions/uw-ctf-s22/vitalik.md)
+* [🌴 ISSessions CTF 2023](2023/issessions-ctf-2023/README.md)
+  * [Basic Permissions](2023/issessions-ctf-2023/basic-permissions.md)
+  * [1337](2023/issessions-ctf-2023/1337.md)
 
-## 😇 Practice
+## 2022
 
-* [Page 2](practice/page-2.md)
+* [🏁 UW CTF S22](2022/uw-ctf-s22/README.md)
+  * [0s and 1s](2022/uw-ctf-s22/0s-and-1s.md)
+  * [simple image](2022/uw-ctf-s22/simple-image.md)
+  * [Helikopter](2022/uw-ctf-s22/helikopter.md)
+  * [Meow](2022/uw-ctf-s22/meow.md)
+  * [Google Form](2022/uw-ctf-s22/google-form.md)
+  * [Strings, literally](2022/uw-ctf-s22/strings-literally.md)
+  * [WASM](2022/uw-ctf-s22/wasm.md)
+  * [Audio](2022/uw-ctf-s22/audio.md)
+  * [Pwn0](2022/uw-ctf-s22/pwn0.md)
+  * [YATD](2022/uw-ctf-s22/yatd.md)
+  * [steg](2022/uw-ctf-s22/steg.md)
+  * [Passwords](2022/uw-ctf-s22/passwords.md)
+  * [Vitalik](2022/uw-ctf-s22/vitalik.md)
+
+## Practice
+
+* [🅿 PicoCTF](practice/picoctf/README.md)
+  * [General](practice/picoctf/general/README.md)
+    * [Obedient Cat](practice/picoctf/general/obedient-cat.md)

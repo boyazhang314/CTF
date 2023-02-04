@@ -1,8 +1,8 @@
 ---
-description: Assorted bag of Capture the Flag
+description: Assorted Bag of Capture the Flag
 ---
 
-# 🚩 CTF
+# Home
 
 ## Herein exist my miscellaneous writeups
 

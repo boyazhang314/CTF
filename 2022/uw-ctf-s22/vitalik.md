@@ -10,11 +10,11 @@ Let's start by figuring out who Vitalik is and what is their "creation"
 
 Google searching reveals a man named Vitalik Buterin, founder of Ethereum, which is a blockchain
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Man is busy</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>Man is busy</p></figcaption></figure>
 
 As per the description, this Ethereum uses a hash function, so let's try to find what it is
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 As we can see, it uses **Keccak-256**
 

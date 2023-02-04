@@ -8,7 +8,7 @@
 
 The link brings us to a Google form with one question: `Get this question right to get to the flag!`
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Unfortunately, it won't be this easy...</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Unfortunately, it won't be this easy...</p></figcaption></figure>
 
 The hint tells us to try to inspect element, so let's give that a go
 
