@@ -95,7 +95,7 @@ It wasn't until later that I read the comment in this StackOverflow post which p
 g?             2  Rot13 encoding operator
 ```
 
-Another thing I missed was that there was literally 13 in the flag
+Another thing I missed was that there was literally "13" in the flag
 
 At least I learned how to exit vim
 

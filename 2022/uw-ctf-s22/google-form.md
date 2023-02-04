@@ -16,8 +16,6 @@ Start with `CTRL-F` "flag" and we eventually find this juicy bit in the Elements
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Fun fact: Inputting this flag into the form input is still incorrect!
-
 ## Flag
 
 `uwctf{c1i3nt_51d3_v41id4ti0n_a9d807f09b82c404}`

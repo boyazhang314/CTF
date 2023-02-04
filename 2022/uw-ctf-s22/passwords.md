@@ -16,7 +16,7 @@ We're giving nothing more than an executable. Let's get some information about i
 
 So it's an executable. As expected. Let's try running it
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>It never stops running...</p></figcaption></figure>
 
 It wants a password, as stated in the description, but we do not know it
 
@@ -28,7 +28,9 @@ We can see all of the functions. Let's put a breakpoint on `main` with `b main`.
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-The flag has to be stored somewhere, so let's try dumping out the assembler code with `disas/s` and get some juicy information. What's really interesting is the call the `strcmp` followed by tons of `putchar` calls
+The flag has to be stored somewhere, so let's try dumping out the assembler code with `disas/s` and get some juicy information.&#x20;
+
+What's really interesting is the call the `strcmp` followed by tons of `putchar` calls
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 

@@ -2,15 +2,19 @@
 
 ## Description
 
-> Yes, it's been there on the homepage all this time. [https://ct](https://ctf.uwaterloo.ca/)
+> Yes, it's been there on the homepage all this time.&#x20;
 >
 >
 >
-> [f.uwaterloo.ca/](https://ctf.uwaterloo.ca/)
+> [https://ctf.uwaterloo.ca/](https://ctf.uwaterloo.ca/)
 
 ## Stegosaurus Rex
 
-From the title "steg" I automatically think of steganography, where information is hidden within images, though other mediums such as music are also possible
+From the title "steg" I automatically think of _steganography_
+
+{% hint style="info" %}
+**Steganography** - Method of hiding information within seemingly ordinary mediums, such as images, to avoid detection
+{% endhint %}
 
 We go to the website and play around, inspecting elements for potential hidden flags. Eventually, something catches my eye:
 

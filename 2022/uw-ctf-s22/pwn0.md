@@ -17,7 +17,14 @@ Welcome to Buffer Overflow 0
 Can you hack me?
 ```
 
+{% hint style="info" %}
+**Buffer Overflow** - Occurs when the data surpasses the storage of some memory buffer
+{% endhint %}
+
 We try overflowing the buffer by injecting a very long string, such as `AAAAAAAAAAAAAAAAAAAAAAAA`&#x20;
+
+* The idea is that there is some buffer which stores the input string, which has a predetermined set size
+* Send in as large of an input as possible to try to exceed the buffer's limit
 
 This immediately prints the flag for us
 

@@ -8,7 +8,7 @@
 > FH4E7LC@Ecf0243hbfh37_ge35fcN
 > ```
 
-## Cipher Find
+## Cipher Searcher
 
 As implied by the challenge description, we are given a cipher to decrypt
 
@@ -22,7 +22,7 @@ Considering the length, there is a good chance this string directly maps to a fl
 
 We can see that each time there is an offset of 47 in the ASCII representations of the characters
 
-This implies ROT47
+This implies ROT47, where letters are "rotated" by 47
 
 {% embed url="https://www.browserling.com/tools/rot47" %}
 

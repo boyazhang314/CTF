@@ -23,7 +23,7 @@ Here we can learn a few things
 
 After trying some more strings, I stopped to think about the hint a little more than the surface-level colours that were listed
 
-Thinking about technologies blue, red, yellow, blue, green, red, there was a certain name that came to mind...
+Thinking about _technologies blue, red, yellow, blue, green, red_, there was a certain name that came to mind...
 
 Windows.
 

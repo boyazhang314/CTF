@@ -4,9 +4,9 @@
 
 > Popular image hosting platform + `5KmhUal` (don't use `/a/`)
 
-## Find the Host
+## Post the Host
 
-First, we must find this _popular image-hosting platform_, and with a quick Google search we can find this [wonderful list](https://www.wix.com/blog/photography/free-image-hosting-sites)
+First, we must search for this _popular image-hosting platform_, and with a quick Google search we can find this [wonderful list](https://www.wix.com/blog/photography/free-image-hosting-sites)
 
 <figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>This is Wix's blog, and Wix is number 1 <span data-gb-custom-inline data-tag="emoji" data-code="1f914">🤔</span></p></figcaption></figure>
 
