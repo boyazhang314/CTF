@@ -4,7 +4,7 @@
 
 > Can you find out how to get permissions to run the file?
 
-## Get Permissions
+## Please let me run you!
 
 At the moment we can't execute the binary. Let's give ourselves execution permissions!
 
