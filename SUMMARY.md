@@ -32,3 +32,7 @@
     * [Obedient Cat](practice/picoctf/general/obedient-cat.md)
   * [Cryptgoraphy](practice/picoctf/cryptgoraphy/README.md)
     * [Mod 26](practice/picoctf/cryptgoraphy/mod-26.md)
+* [🧠 CryptoHack](practice/cryptohack/README.md)
+  * [Introduction](practice/cryptohack/introduction/README.md)
+    * [Finding Flags](practice/cryptohack/introduction/finding-flags.md)
+    * [Great Snakes](practice/cryptohack/introduction/great-snakes.md)
