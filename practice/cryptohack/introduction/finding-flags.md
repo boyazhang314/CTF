@@ -8,7 +8,7 @@
 > \
 > Try submitting this flag into the form below to solve your first challenge.
 
-## Found the Flag
+## Find the Flag
 
 I think I found the flag guys
 

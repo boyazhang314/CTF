@@ -30,7 +30,7 @@ This houses all the code for the UW CTF website. We can see a very telling commi
 
 Checking out the commit, we can see an image file change
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 There must be something very peculiar about the new image :thinking:
 
