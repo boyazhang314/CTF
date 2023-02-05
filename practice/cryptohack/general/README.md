@@ -23,3 +23,9 @@
 | [XOR Properties](xor-properties.md)                               | 15     | 12165  |
 | [Favourite byte](favourite-byte.md)                               | 20     | 12009  |
 | [You either know, XOR you don't](you-either-know-xor-you-dont.md) | 30     | 10368  |
+
+## Mathematics
+
+| Challenge               | Points | Solves |
+| ----------------------- | ------ | ------ |
+| Greatest Common Divisor | 15     | 10720  |
