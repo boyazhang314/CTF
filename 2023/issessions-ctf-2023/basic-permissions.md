@@ -16,7 +16,7 @@ We can now run the file with `./run_me`
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>uh</p></figcaption></figure>
 
-That's a lot of text. Let's CTRL-F
+That's a lot of text. Let's CTRL-F for "retroCTF"
 
 ## Flag
 

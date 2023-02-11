@@ -48,15 +48,6 @@ def binToText(binary):
     return text
 ```
 
-<details>
-
-<summary>References for Python functions</summary>
-
-* `int()` - [https://www.programiz.com/python-programming/methods/built-in/int](https://www.programiz.com/python-programming/methods/built-in/int)
-* `chr()` - [https://www.programiz.com/python-programming/methods/built-in/chr](https://www.programiz.com/python-programming/methods/built-in/chr)
-
-</details>
-
 ## Flag
 
 `uwctf{b1n4ry_8a266a95c1351d02}`

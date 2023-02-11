@@ -4,7 +4,7 @@
 > \
 > It may be possible to solve these challenges using online converters and tools, however it will pay off later if you solve them in a programming language and learn how to do it that way instead. Of these, we suggest Python 3 (see the [FAQ](https://cryptohack.org/faq)).
 
-<figure><img src="../../../.gitbook/assets/general.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/general.png" alt=""><figcaption><p>Building a microscope? <span data-gb-custom-inline data-tag="emoji" data-code="1f52c">🔬</span></p></figcaption></figure>
 
 ## Encoding
 
@@ -26,6 +26,6 @@
 
 ## Mathematics
 
-| Challenge               | Points | Solves |
-| ----------------------- | ------ | ------ |
-| Greatest Common Divisor | 15     | 10720  |
+| Challenge                                             | Points | Solves |
+| ----------------------------------------------------- | ------ | ------ |
+| [Greatest Common Divisor](greatest-common-divisor.md) | 15     | 10720  |

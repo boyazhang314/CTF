@@ -30,7 +30,7 @@ It wasn't until I played around with Keccak-256 that I realized that even the em
 
 The empty string, or "nothing", hashes to `c5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470`
 
-We can add this to the "path" of the CTF website,&#x20;
+We can add this to the "path" of the CTF website, which will immediately download a file
 
 ```
 https://ctf.csclub.uwaterloo.ca/c5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470
