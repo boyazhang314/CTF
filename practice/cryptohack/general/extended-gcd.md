@@ -1,0 +1,20 @@
+# Extended GCD
+
+> Let `a` and `b` be positive integers.\
+> \
+> The extended Euclidean algorithm is an efficient way to find integers `u,v` such that\
+> \
+> `a * u + b * v = gcd(a,b)`\
+> \
+> :high\_brightness: Later, when we learn to decrypt RSA, we will need this algorithm to calculate the modular inverse of the public exponent.\
+> \
+> Using the two primes `p = 26513, q = 32321`, find the integers `u,v` such that\
+> \
+> `p * u + q * v = gcd(p,q)`\
+> \
+> Enter whichever of `u` and `v` is the lower number as the flag.\
+> \
+> :bulb: Knowing that `p,q` are prime, what would you expect `gcd(p,q)` to be? For more details on the extended Euclidean algorithm, check out [this page](http://www-math.ucdenver.edu/\~wcherowi/courses/m5410/exeucalg.html).
+
+## Mr. Euclid, Again
+

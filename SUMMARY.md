@@ -46,3 +46,4 @@
     * [Favourite byte](practice/cryptohack/general/favourite-byte.md)
     * [You either know, XOR you don't](practice/cryptohack/general/you-either-know-xor-you-dont.md)
     * [Greatest Common Divisor](practice/cryptohack/general/greatest-common-divisor.md)
+    * [Extended GCD](practice/cryptohack/general/extended-gcd.md)
