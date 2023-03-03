@@ -28,7 +28,7 @@ for i in range(256):
     print(xorString)
 ```
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>We can find the flag</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>We can find the flag</p></figcaption></figure>
 
 ## Flag
 

@@ -14,7 +14,7 @@ The hint tells us to try to inspect element, so let's give that a go
 
 Start with `CTRL-F` "flag" and we eventually find this juicy bit in the Elements tab
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Flag
 

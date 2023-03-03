@@ -18,7 +18,7 @@ Noobs had to participate on their own
 
 **Flags are of the format `uwctf{...}`**
 
-| Challenges                      | Points | Solves |
+| Challenge                       | Points | Solves |
 | ------------------------------- | ------ | ------ |
 | [0s and 1s](0s-and-1s.md)       | 16     | 22     |
 | [simple image](simple-image.md) | 18     | 18     |

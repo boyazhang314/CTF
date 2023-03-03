@@ -4,6 +4,10 @@
 
 ## 2023
 
+* [🐦 magpieCTF 2023](2023/magpiectf-2023/README.md)
+  * [Chocolate Chips with Zero-G](2023/magpiectf-2023/chocolate-chips-with-zero-g.md)
+  * [Education Comes First](2023/magpiectf-2023/education-comes-first.md)
+  * [This outta be large enough right?](2023/magpiectf-2023/this-outta-be-large-enough-right.md)
 * [🌴 ISSessions CTF 2023](2023/issessions-ctf-2023/README.md)
   * [Basic Permissions](2023/issessions-ctf-2023/basic-permissions.md)
   * [1337](2023/issessions-ctf-2023/1337.md)

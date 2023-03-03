@@ -24,7 +24,7 @@ This hash function is very impressive, as it's able to hide the length of the me
 
 I tried encoding "path" as well as the whole message, then shoving it into the `uwctf{...}` format, though that was certainly not correct
 
-I was stumped. This was the final challenge I had to solve and I was at a lost
+I was stumped.
 
 It wasn't until I played around with Keccak-256 that I realized that even the empty string hashes to something, and the word "path" had a very different meaning...
 
