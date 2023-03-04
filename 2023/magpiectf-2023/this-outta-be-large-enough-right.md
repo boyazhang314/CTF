@@ -72,7 +72,7 @@ Now, for the user input we want to overflow `buf`. It doesn't matter what dummy 
 run <<< $(python3 -c 'print("A"*100)')
 ```
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 We got a segmentation fault, as expected. However, what's notable is the `0x41414141 in ?? ()` response. This is telling us where the program is currently, when it received the segmentation fault, so the `0x41414141` is the stack pointer and `?? ()` is the function the program faulted at.
 
@@ -102,7 +102,7 @@ We are now ready to overwrite the stack pointer with our desired location. Note 
 python3 -c 'import sys; sys.stdout.buffer.write(b"A"*68 + b"\x86\x84\x04\x08")'
 ```
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>We win!</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>We win!</p></figcaption></figure>
 
 "Here is your flag:" is printed out, implying we successfully called `win`
 
@@ -116,7 +116,7 @@ python3 -c 'import sys; sys.stdout.buffer.write(b"A"*68 + b"\x86\x84\x04\x08")' 
 
 Unfortunately, it didn't work as the program would just hang. I similarly tried to send the Python to a file `out` and pipe in `cat out | nc srv1.2023.magpiectf.ca 6201` which did not work either.
 
-I had the correct payload, but I just couldn't send the payload innnnn
+I had the correct payload, but I just couldn't send the payload in!
 
 After a bout of frustration, I settled down and coded up a Python script to communicate with the server
 

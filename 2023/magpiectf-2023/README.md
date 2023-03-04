@@ -16,11 +16,25 @@ I couldn't get a screenshot of my stats, but last I believe I ended with 24th pl
 
 **Flags are of the format `magpie{...}`**
 
+## Networks
+
+| Challenge                                        |
+| ------------------------------------------------ |
+| [What is the password?](what-is-the-password.md) |
+
+## Reverse Engineering
+
+| Challenge                       |
+| ------------------------------- |
+| [Shredded](shredded.md)         |
+| [Missing Flag](missing-flag.md) |
+
 ## Binary Exploitation
 
-| Challenge |
-| --------- |
-|           |
+| Challenge                                                                |
+| ------------------------------------------------------------------------ |
+| [This outta be large enough right?](this-outta-be-large-enough-right.md) |
+| [No Password Here](no-password-here.md)                                  |
 
 ## Web Exploitation
 
