@@ -16,7 +16,7 @@ We're giving nothing more than an executable. Let's get some information about i
 
 So it's an executable. As expected. Let's try running it
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>It never stops running...</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (2).png" alt=""><figcaption><p>It never stops running...</p></figcaption></figure>
 
 It wants a password, as stated in the description, but we do not know it
 

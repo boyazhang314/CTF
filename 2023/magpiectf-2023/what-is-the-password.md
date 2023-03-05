@@ -12,13 +12,13 @@
 
 We're given a network packet, which we can open with [Wireshark](https://www.wireshark.org/)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 It looks like a request was made to get `Password.PNG`
 
 In a later packet, we can see this request was succesful:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 Looks like the TCP packets are carrying the PNG data. We can export this data with File > Export Object >  HTTP
 
@@ -26,7 +26,7 @@ Looks like the TCP packets are carrying the PNG data. We can export this data wi
 
 Export the PNG to get an image of the flag
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>There is the password</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>There is the password</p></figcaption></figure>
 
 ## Flag
 

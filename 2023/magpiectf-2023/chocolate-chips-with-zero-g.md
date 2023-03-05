@@ -30,11 +30,11 @@ Let's try logging in with any test credential, say "admin" and "admin"
 
 Inspect element again, and in the Sources tab we can find a `script.js`. Looking through it, it seems to hold the logic for login. Notably, we find this bit for when the credentials are submitted:
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Admin</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Admin</p></figcaption></figure>
 
 Looks like it sets the cookie `admin` to `false` when we login. If we have submitted our credentials and the `admin` cookie is false, it redirects us to `denied.html`
 
-We can go into Application > Storage > Cookies to find the `admin` cookie, set it to `true`, then refresh the page to get the flag.
+We can go into Application > Storage > Cookies to find the `admin` cookie, set it to `true`, then refresh the page to get the flag
 
 ## Flag
 

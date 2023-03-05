@@ -13,9 +13,9 @@
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Oooh bubbles</p></figcaption></figure>
 
-We are greeted with an education page with floating bubbles. The website is pretty bare, with `index.html` , `whatWeDo.html`, and `about.html` being the only pages we can see. Let's inspect the page source.
+We are greeted with an education page with floating bubbles. The website is pretty bare, with `index.html` , `whatWeDo.html`, and `about.html` being the only pages we can see or go to. Let's inspect the page source
 
-We find a file called `flash.js`. This code is not very readable, however searching through there is a fragment that seems peculiar
+We find a file called `flash.js`. This code is not very readable, however searching through there is a fragment that seems interesting
 
 ```javascript
 hex2a('6d61677069657b57335f525f5337314c4c5f483352337d')

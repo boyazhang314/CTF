@@ -42,9 +42,9 @@ The code implies a buffer overflow attack
 **Buffer Overflow** - Occurs when the volume of data exceeds the storage capacity of the memory buffer, which overruns the buffer's allocated memory and overwrites adjacent memory locations
 {% endhint %}
 
-In the code `chall.c` we can see a buffer of static size 56 allocated, called `buf`. User input is then placed inside this buffer with `gets(buf)`. However, what if the user input exceeds the size `buf` was allocated for? Then those values will be stored in the next slots of memory, after the locations that were allocated by `buf`, which may overwrite important information.
+In the code `chall.c` we can see a buffer of static size 56 allocated, called `buf`. User input is then placed inside this buffer with `gets(buf)`. However, what if the user input exceeds the size `buf` was allocated for? Then those values will be stored in the next slots of memory, after the locations that were allocated by `buf`, which may overwrite important information
 
-One of these important pieces of information is the stack pointer, which points to the next instruction that the program should execute.&#x20;
+One of these important pieces of information is the stack pointer, which points to the next instruction that the program should execute
 
 Thus, our goal is
 
@@ -74,15 +74,15 @@ run <<< $(python3 -c 'print("A"*100)')
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-We got a segmentation fault, as expected. However, what's notable is the `0x41414141 in ?? ()` response. This is telling us where the program is currently, when it received the segmentation fault, so the `0x41414141` is the stack pointer and `?? ()` is the function the program faulted at.
+We got a segmentation fault, as expected. However, what's notable is the `0x41414141 in ?? ()` response. This is telling us where the program is currently, when it received the segmentation fault, so the `0x41414141` is the stack pointer and `?? ()` is the function the program faulted at
 
-If you have a good memory, you may recall none of the functions were even close to this location, and the function we ended at is unknown by the program.
+If you have a good memory, you may recall none of the functions were even close to this location, and the function we ended at is unknown by the program
 
 If you have a keen eye, you may notice that 0x41 is "A" in hexadecimal.
 
 Putting these together, we can note that not only did we cause a segmentation fault, we also managed to overwrite the stack pointer with "AAAA"
 
-Unfortunately, we want to overwrite the stack pointer with "08048486", the location of `win`, so let's try finding the precise number of "A"s to send such that we cause a segmentation fault, however we do not overwrite the stack pointer.
+Unfortunately, we want to overwrite the stack pointer with "08048486", the location of `win`, so let's try finding the precise number of "A"s to send such that we cause a segmentation fault, however we do not overwrite the stack pointer
 
 To spare the painful details, this amounts to 68 "A"s
 
