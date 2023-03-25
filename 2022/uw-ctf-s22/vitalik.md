@@ -14,7 +14,7 @@ Google searching reveals a man named Vitalik Buterin, founder of Ethereum, which
 
 As per the description, this Ethereum uses a hash function, so let's try to find what it is
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 As we can see, it uses **Keccak-256**
 

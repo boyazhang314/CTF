@@ -62,7 +62,7 @@ Then let's run it with gdb using `gdb chall`
 
 First let's look into the functions of the file
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 We can see that the `win` function is located at 0x08048486. Let's put a pin in that for now, and run the program with `run`
 

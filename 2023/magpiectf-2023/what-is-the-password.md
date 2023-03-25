@@ -22,7 +22,7 @@ In a later packet, we can see this request was succesful:
 
 Looks like the TCP packets are carrying the PNG data. We can export this data with File > Export Object >  HTTP
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (4).png" alt=""><figcaption></figcaption></figure>
 
 Export the PNG to get an image of the flag
 

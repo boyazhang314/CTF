@@ -34,7 +34,7 @@ The flag has to be stored somewhere, so let's try dumping out the assembler code
 
 What's really interesting is the call the `strcmp` followed by tons of `putchar` calls
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 It's likely the code here is calling `strcmp` to compare the user input to the password, and if the password is correct it puts, or prints out, the flag. These hex values that are being moved with `mov` look like ASCII characters.
 

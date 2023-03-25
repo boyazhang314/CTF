@@ -29,4 +29,3 @@
 | Challenge                                             | Points | Solves |
 | ----------------------------------------------------- | ------ | ------ |
 | [Greatest Common Divisor](greatest-common-divisor.md) | 15     | 10720  |
-| [Extended GCD](extended-gcd.md)                       | 20     | 8759   |

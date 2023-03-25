@@ -14,7 +14,7 @@
 
 ## Milky Way
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 We are brought to the moon on this website, with both a navigation bar and a sidebar, though some of the options, such as "CAREERS" and "FLAGS", link to nothing
 
@@ -30,7 +30,7 @@ Let's try logging in with any test credential, say "admin" and "admin"
 
 Inspect element again, and in the Sources tab we can find a `script.js`. Looking through it, it seems to hold the logic for login. Notably, we find this bit for when the credentials are submitted:
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Admin</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (2).png" alt=""><figcaption><p>Admin</p></figcaption></figure>
 
 Looks like it sets the cookie `admin` to `false` when we login. If we have submitted our credentials and the `admin` cookie is false, it redirects us to `denied.html`
 

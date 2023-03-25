@@ -21,7 +21,18 @@
   * [Education Comes First](2023/magpiectf-2023/education-comes-first.md)
 * [🌴 ISSessions CTF 2023](2023/issessions-ctf-2023/README.md)
   * [Basic Permissions](2023/issessions-ctf-2023/basic-permissions.md)
+  * [Crack Me](2023/issessions-ctf-2023/crack-me.md)
+  * [File Detective](2023/issessions-ctf-2023/file-detective.md)
+  * [Word Vomit](2023/issessions-ctf-2023/word-vomit.md)
+  * [Fileception](2023/issessions-ctf-2023/fileception.md)
+  * [Coding Time](2023/issessions-ctf-2023/coding-time.md)
+  * [Ghost File](2023/issessions-ctf-2023/ghost-file.md)
+  * [CryptoTools1](2023/issessions-ctf-2023/cryptotools1.md)
+  * [CryptoTools2](2023/issessions-ctf-2023/cryptotools2.md)
   * [1337](2023/issessions-ctf-2023/1337.md)
+  * [ROT++](2023/issessions-ctf-2023/rot++.md)
+  * [RunedMyDay](2023/issessions-ctf-2023/runedmyday.md)
+  * [RSA\_2](2023/issessions-ctf-2023/rsa\_2.md)
 
 ## 2022
 
@@ -42,11 +53,6 @@
 
 ## Practice
 
-* [🅿 PicoCTF](practice/picoctf/README.md)
-  * [General](practice/picoctf/general/README.md)
-    * [Obedient Cat](practice/picoctf/general/obedient-cat.md)
-  * [Cryptgoraphy](practice/picoctf/cryptgoraphy/README.md)
-    * [Mod 26](practice/picoctf/cryptgoraphy/mod-26.md)
 * [🧠 CryptoHack](practice/cryptohack/README.md)
   * [Introduction](practice/cryptohack/introduction/README.md)
     * [Finding Flags](practice/cryptohack/introduction/finding-flags.md)
@@ -61,4 +67,3 @@
     * [Favourite byte](practice/cryptohack/general/favourite-byte.md)
     * [You either know, XOR you don't](practice/cryptohack/general/you-either-know-xor-you-dont.md)
     * [Greatest Common Divisor](practice/cryptohack/general/greatest-common-divisor.md)
-    * [Extended GCD](practice/cryptohack/general/extended-gcd.md)

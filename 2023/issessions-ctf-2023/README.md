@@ -12,7 +12,7 @@ I couldn't go in person, but it was still very enjoyable nonetheless! The questi
 
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Our team came 7th overall</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Flags are of the format `retroCTF{...}`**
 
@@ -21,9 +21,19 @@ I couldn't go in person, but it was still very enjoyable nonetheless! The questi
 | Challenge                                 | Points |
 | ----------------------------------------- | ------ |
 | [Basic Permissions](basic-permissions.md) | 20     |
+| [Crack Me](crack-me.md)                   | 20     |
+| [File Detective](file-detective.md)       | 20     |
+| [Word Vomit](word-vomit.md)               | 20     |
+| [Fileception](fileception.md)             | 20     |
+| [Coding Time](coding-time.md)             | 20     |
+| [Ghost File](ghost-file.md)               | 20     |
 
 ## Cryptography
 
-| Challenge       | Points |
-| --------------- | ------ |
-| [1337](1337.md) | 30     |
+| Challenge                       | Points |
+| ------------------------------- | ------ |
+| [CryptoTools1](cryptotools1.md) | 30     |
+| [CryptoTools2](cryptotools2.md) | 30     |
+| [1337](1337.md)                 | 30     |
+| [ROT++](rot++.md)               | 69     |
+| [RunedMyDay](runedmyday.md)     | 75     |

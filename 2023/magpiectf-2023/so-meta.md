@@ -20,7 +20,7 @@ The second image looks like the first mixed over with something else, which I'm 
 
 {% embed url="https://www.diffchecker.com/image-compare/" %}
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Flag
 
