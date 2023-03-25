@@ -22,7 +22,7 @@ the-flag.txt: PNG image data, 1536 x 864, 8-bit/color RGB, non-interlaced
 
 Rename the file with the proper extension using `mv the-flag.txt the-flag.png`
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Another mystery solved</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Another mystery solved</p></figcaption></figure>
 
 ## Flag
 

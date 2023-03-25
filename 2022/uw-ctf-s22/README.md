@@ -14,7 +14,7 @@ Noobs had to participate on their own
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Tied for first</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Stats</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Stats</p></figcaption></figure>
 
 **Flags are of the format `uwctf{...}`**
 

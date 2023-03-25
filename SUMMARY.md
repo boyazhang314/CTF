@@ -33,6 +33,9 @@
   * [ROT++](2023/issessions-ctf-2023/rot++.md)
   * [RunedMyDay](2023/issessions-ctf-2023/runedmyday.md)
   * [RSA\_2](2023/issessions-ctf-2023/rsa\_2.md)
+  * [The Man Who Sold the World](2023/issessions-ctf-2023/the-man-who-sold-the-world.md)
+  * [VaultChallenge](2023/issessions-ctf-2023/vaultchallenge.md)
+  * [Lost Media](2023/issessions-ctf-2023/lost-media.md)
 
 ## 2022
 
