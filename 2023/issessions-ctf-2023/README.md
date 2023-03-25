@@ -42,9 +42,9 @@ I couldn't go in person, but it was still very enjoyable nonetheless! The questi
 
 ## Reversing
 
-| Challenge      | Points |
-| -------------- | ------ |
-| VaultChallenge | 30     |
+| Challenge                           | Points |
+| ----------------------------------- | ------ |
+| [VaultChallenge](vaultchallenge.md) | 30     |
 
 ## OSINT
 
