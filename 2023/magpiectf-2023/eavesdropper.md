@@ -15,7 +15,7 @@
 
 We're given a network packet, which we can open with [Wireshark](https://www.wireshark.org/)
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 There are 120000 packets! Way too many to search through, so let's try examining the packets
 

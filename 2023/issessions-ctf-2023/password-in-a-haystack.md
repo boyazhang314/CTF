@@ -8,7 +8,7 @@ We have `credential_export.txt`, a list of 25000 possible passwords, and `Passwo
 
 The most notable part of the PDF is this table:
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Let us filter the passwords using these rules
 

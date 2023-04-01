@@ -8,11 +8,11 @@ We have an executable `capsule.exe`
 
 Note that this is a Windows executable
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 So we can't execute as `./capsule.exe` as normal. Instead, we can run `wine capsule.exe`
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 And the output is something like `213087208 more seconds until the capsule opens!`, which after some calculations, appears to be too long for us to wait
 

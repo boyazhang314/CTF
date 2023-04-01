@@ -18,7 +18,7 @@ As suggested, let's use DCODE to help us identify and decode the cipher
 
 We are given a few ciphers to try, and after some experimentation we find that the Affine cipher was used
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Flag
 

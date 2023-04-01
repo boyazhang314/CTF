@@ -4,6 +4,7 @@
 
 ## 2023
 
+* [🅿 picoCTF 2023](2023/picoctf-2023.md)
 * [🐦 magpieCTF 2023](2023/magpiectf-2023/README.md)
   * [Space Plan](2023/magpiectf-2023/space-plan.md)
   * [Space Exploration](2023/magpiectf-2023/space-exploration.md)

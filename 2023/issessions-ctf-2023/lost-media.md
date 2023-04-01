@@ -26,7 +26,7 @@ After digging Spotify, Youtube, and some other social media apps, an epiphany st
 
 Soundcloud
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://soundcloud.com/user-374921812/retroctf-freestyle-1" %}
 Lifechanging indeed

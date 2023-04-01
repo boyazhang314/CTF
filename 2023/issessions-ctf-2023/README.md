@@ -8,7 +8,7 @@ description: Flags from the 2023 ISSessions retroCTF
 
 Intense hybrid CTF hosted annually by [ISSesions](https://issessions.ca/) from Sheridan College
 
-I couldn't go in person, but it was still very enjoyable nonetheless! The questions were challenging and I learned a lot :smile: [Lost Media](lost-media.md) in particular was hilarious and I greatly enjoyed the resolution of the challenge
+I couldn't go in person, but it was still very enjoyable nonetheless! The questions were challenging and I learned a lot :smile: [Lost Media](lost-media.md) in particular was hilarious and I greatly enjoyed the challenge
 
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Our team came 7th overall</p></figcaption></figure>
 

@@ -26,7 +26,7 @@ From the description we know we're looking for an "insecure admin portal", so le
 
 Let's try logging in with any test credential, say "admin" and "admin"
 
-<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>No luck</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>No luck</p></figcaption></figure>
 
 Inspect element again, and in the Sources tab we can find a `script.js`. Looking through it, it seems to hold the logic for login. Notably, we find this bit for when the credentials are submitted:
 

@@ -32,7 +32,7 @@ Now what is the key?
 
 Well, the table is quite _purple_
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 ## Flag
 

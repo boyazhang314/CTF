@@ -17,7 +17,7 @@ We have a PNG of space
 
 You can use any image editing tool, I personally used [Aperi'Solve](https://www.aperisolve.com/), but lightening the picture reveals the flag
 
-<figure><img src="../../.gitbook/assets/image (5) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Flag
 
