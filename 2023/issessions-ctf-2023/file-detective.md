@@ -10,7 +10,7 @@ We are given a text file `the-flag.txt`, or so it seems...
 
 Let's try printing it out
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Hmmmm</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (6).png" alt=""><figcaption><p>Hmmmm</p></figcaption></figure>
 
 Our keen eye of observation will notice the "PNG" printed at the top, so perhaps this is not a `txt` file after all :detective:
 

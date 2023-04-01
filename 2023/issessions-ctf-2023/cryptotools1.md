@@ -14,7 +14,7 @@ As suggested, let's use DCODE to help us identify and decode the cipher
 
 {% embed url="https://www.dcode.fr/cipher-identifier" %}
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (5).png" alt=""><figcaption></figcaption></figure>
 
 We are given a few ciphers to try, and after some experimentation we find that the Affine cipher was used
 

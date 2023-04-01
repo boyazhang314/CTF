@@ -51,3 +51,11 @@ I couldn't go in person, but it was still very enjoyable nonetheless! The questi
 | Challenge                   | Points |
 | --------------------------- | ------ |
 | [Lost Media](lost-media.md) | 96     |
+
+## Miscellaneous
+
+| Challenge                                           | Points |
+| --------------------------------------------------- | ------ |
+| [Decontamination](decontamination.md)               | 56     |
+| [Decade Capsule](decade-capsule.md)                 | 75     |
+| [Password in A Haystack](password-in-a-haystack.md) | 96     |

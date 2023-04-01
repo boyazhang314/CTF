@@ -36,6 +36,9 @@
   * [The Man Who Sold the World](2023/issessions-ctf-2023/the-man-who-sold-the-world.md)
   * [VaultChallenge](2023/issessions-ctf-2023/vaultchallenge.md)
   * [Lost Media](2023/issessions-ctf-2023/lost-media.md)
+  * [Decontamination](2023/issessions-ctf-2023/decontamination.md)
+  * [Decade Capsule](2023/issessions-ctf-2023/decade-capsule.md)
+  * [Password in A Haystack](2023/issessions-ctf-2023/password-in-a-haystack.md)
 
 ## 2022
 
