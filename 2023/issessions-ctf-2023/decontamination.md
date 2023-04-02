@@ -34,7 +34,7 @@ Can create a regular expression such as `^Payroll_?[A-F0-9]{8,12}.(docm|xlsm)$`
 
 Using it to search, we find there is only one result: `Payroll_EA026F52BAF.xlsm`
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ## Flag
 

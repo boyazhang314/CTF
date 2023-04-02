@@ -26,7 +26,7 @@ Looks like the TCP packets are carrying the PNG data. We can export this data wi
 
 Export the PNG to get an image of the flag
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (3).png" alt=""><figcaption><p>There is the password</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (2).png" alt=""><figcaption><p>There is the password</p></figcaption></figure>
 
 ## Flag
 

@@ -24,7 +24,7 @@ This looks like a base64 strings, so add the "From Base64" recipe
 
 This looks like hex, so add the "From Hex" recipe
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Thanks for the meal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (2).png" alt=""><figcaption><p>Thanks for the meal</p></figcaption></figure>
 
 ## Flag
 

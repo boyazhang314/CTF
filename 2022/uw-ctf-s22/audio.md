@@ -14,7 +14,7 @@ Yet at the same time, there is something distinctly _English_ about the vernacul
 
 Let's open the file in [Audacity](https://www.audacityteam.org/) and see what we can do
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The high pitch and speed seem to imply it was sped up, so let's try slowing it down
 

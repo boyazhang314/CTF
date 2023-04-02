@@ -12,7 +12,7 @@ I couldn't go in person, but it was still very enjoyable nonetheless! The questi
 
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Our team came 7th overall</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Flags are of the format `retroCTF{...}`**
 

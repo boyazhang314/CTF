@@ -72,7 +72,7 @@ Now, for the user input we want to overflow `buf`. It doesn't matter what dummy 
 run <<< $(python3 -c 'print("A"*100)')
 ```
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 We got a segmentation fault, as expected. However, what's notable is the `0x41414141 in ?? ()` response. This is telling us where the program is currently, when it received the segmentation fault, so the `0x41414141` is the stack pointer and `?? ()` is the function the program faulted at
 

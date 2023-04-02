@@ -14,7 +14,7 @@ Nevermind.
 
 Instead, we can use `grep` recursively to find a file with the text "retro"
 
-<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>I'm awake</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>I'm awake</p></figcaption></figure>
 
 ## Flag
 

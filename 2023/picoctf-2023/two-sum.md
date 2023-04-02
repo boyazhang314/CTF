@@ -84,13 +84,13 @@ if (scanf("%d", &num1) && scanf("%d", &num2)) {
 
 So we need `addIntOvf` to return -1 for two positive integers. Of course, this isn't possible with normal integers, but we can try to remedy this with an _integer overflow_
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 In C, the maximum possible value of an int is 2147483647
 
 We can try passing in 2147483647 and 1, so the sum causes a buffer overflow and the result is negative, which will return -1 for `addIntOvf`
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Flag
 

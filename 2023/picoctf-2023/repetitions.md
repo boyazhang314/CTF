@@ -32,7 +32,7 @@ This looks like base64 encoding, so let's try to decode it
 
 {% embed url="https://www.base64decode.org/" %}
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Hmm, that's not a flag</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Hmm, that's not a flag</p></figcaption></figure>
 
 But it looks like the result is still base64 encoded
 
@@ -43,7 +43,7 @@ From the hint and the title of the question, let's try repeatedly decoding until
 * `Y0dsamIwTlVSbnRpWVhObE5qUmZiak56ZEROa1gyUnBZekJrSVc0NFgyUXdkMjVzTURSa00yUmZaR1UxTWpObU5EbDlDZz09Cg==`
 * `cGljb0NURntiYXNlNjRfbjNzdDNkX2RpYzBkIW44X2Qwd25sMDRkM2RfZGU1MjNmNDl9Cg==`
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Aha!</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Aha!</p></figcaption></figure>
 
 ## Flag
 
