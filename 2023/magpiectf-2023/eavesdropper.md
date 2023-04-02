@@ -37,7 +37,7 @@ strings nothing_to_see_here.pcapng | grep -i magpie > out
 
 We're told that the contents of the flag have something to do with cake, cookies, chocolate, or some sort of flavored desert, so let's try CTRL-F with educated guesses:
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Found chocolate chip cookies <span data-gb-custom-inline data-tag="emoji" data-code="1f36a">🍪</span></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>Found chocolate chip cookies <span data-gb-custom-inline data-tag="emoji" data-code="1f36a">🍪</span></p></figcaption></figure>
 
 ## Flag
 

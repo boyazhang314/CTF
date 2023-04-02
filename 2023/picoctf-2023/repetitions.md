@@ -32,7 +32,7 @@ This looks like base64 encoding, so let's try to decode it
 
 {% embed url="https://www.base64decode.org/" %}
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Hmm, that's not a flag</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (4).png" alt=""><figcaption><p>Hmm, that's not a flag</p></figcaption></figure>
 
 But it looks like the result is still base64 encoded
 

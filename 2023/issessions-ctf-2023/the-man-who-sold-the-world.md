@@ -14,7 +14,7 @@ The table doesn't provide much information, so let's listen to the message
 
 Unfortunately, it is not music. Rather it is a series of long beeps and short beeps, implying Morse code. Instead of deciphering it by ear, I opened it with Audacity to do it visually
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://en.wikipedia.org/wiki/Morse_code" %}
 

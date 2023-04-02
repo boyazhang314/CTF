@@ -18,7 +18,7 @@ Running `binwalk flag.png` reveals that the file is actually a ZIP
 
 We can run `unzip flag.png` to get a folder with a PNG in it
 
-<figure><img src="../../.gitbook/assets/Untitled2.png" alt=""><figcaption><p>Found it!</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled2 (1).png" alt=""><figcaption><p>Found it!</p></figcaption></figure>
 
 ## Flag
 

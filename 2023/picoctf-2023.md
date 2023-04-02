@@ -4,6 +4,8 @@ description: Flags from picoCTF 2023
 
 # 🅿 picoCTF 2023
 
+
+
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 2 week long CTF hosted by [picoCTF](https://picoctf.org/) from [Carnegie Mellon University](https://cmu.edu/)
@@ -36,8 +38,24 @@ All questions can be found in [picoGym](https://play.picoctf.org/practice?origin
 
 ## Forensics
 
-| Challenge                        | Points |
-| -------------------------------- | ------ |
-| [hideme](picoctf-2023/hideme.md) | 100    |
-| PcapPoisoning                    | 100    |
-| who is it                        | 100    |
+| Challenge                                      | Points |
+| ---------------------------------------------- | ------ |
+| [hideme](picoctf-2023/hideme.md)               | 100    |
+| [PcapPoisoning](picoctf-2023/pcappoisoning.md) | 100    |
+| [who is it](picoctf-2023/who-is-it.md)         | 100    |
+
+## Reverse Engineering
+
+| Challenge                                      | Points |
+| ---------------------------------------------- | ------ |
+| [Reverse](picoctf-2023/reverse.md)             | 100    |
+| [timer](picoctf-2023/timer.md)                 | 100    |
+| [Safe Opener 2](picoctf-2023/safe-opener-2.md) | 100    |
+
+## Web Exploitation
+
+| Challenge     | Points |
+| ------------- | ------ |
+| findme        | 100    |
+| MatchTheRegex | 100    |
+| SOAP          | 100    |
