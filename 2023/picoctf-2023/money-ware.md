@@ -36,7 +36,7 @@ Try to search for the hash `1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX`
 
 {% embed url="https://www.bitcoinabuse.com/reports/1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX" %}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 We find an interesting blog about "Petya" [https://blog.avira.com/petya-strikes-back/](https://blog.avira.com/petya-strikes-back/) which gives us a malware name
 

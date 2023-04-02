@@ -16,7 +16,7 @@ With a name, we stalk with social media
 
 Eventually we find a [twitter profile](https://twitter.com/gettingwarm123) with an interesting tweet
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Getting warm indeed</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p>Getting warm indeed</p></figcaption></figure>
 
 ## The Sound of Music
 

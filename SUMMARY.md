@@ -4,9 +4,12 @@
 
 ## 2023
 
-* [🅿 picoCTF 2023](2023/picoctf-2023/README.md)
+* [🅿 picoCTF 2023](2023/picoctf-2023.md)
   * [money-ware](2023/picoctf-2023/money-ware.md)
   * [repetitions](2023/picoctf-2023/repetitions.md)
+  * [two-sum](2023/picoctf-2023/two-sum.md)
+  * [ReadMyCert](2023/picoctf-2023/readmycert.md)
+  * [rotation](2023/picoctf-2023/rotation.md)
 * [🐦 magpieCTF 2023](2023/magpiectf-2023/README.md)
   * [Space Plan](2023/magpiectf-2023/space-plan.md)
   * [Space Exploration](2023/magpiectf-2023/space-exploration.md)

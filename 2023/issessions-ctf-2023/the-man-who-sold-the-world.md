@@ -8,7 +8,7 @@
 
 We are provided an audio file `message.wav` and an image `table.png`
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Purple <span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption><p>Purple <span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span></p></figcaption></figure>
 
 The table doesn't provide much information, so let's listen to the message
 
