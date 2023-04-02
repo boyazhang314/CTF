@@ -23,4 +23,19 @@ We can make the following observations about the malicious file:
 * Starts with `Payroll`
 * `Payroll` could be followed by an underscore `_` and 8 - 12 characters `A-F0-9`
 
-Can create a regular expression such as `^Payroll_?[A-F0-9]{8,12}.(docm|xlsx)$`
+Can create a regular expression such as `^Payroll_?[A-F0-9]{8,12}.(docm|xlsm)$`
+
+* `^` - Beginning of string
+* `Payroll` - Starts with "Payroll"
+* `_?` - Can have 0 or 1 "\_"
+* `[A-F0-9]{8,12}` - Characters from "A" to "F" or "0" to "9" are used 8 to 12 times
+* `.(docm|xlsm)` - Either ".docm" or ".xlsm"
+* `$` - End of string
+
+Using it to search, we find there is only one result: `Payroll_EA026F52BAF.xlsm`
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## Flag
+
+`retroCTF{Payroll_EA026F52BAF.xlsm}`

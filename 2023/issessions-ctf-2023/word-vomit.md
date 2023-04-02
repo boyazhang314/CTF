@@ -12,7 +12,7 @@ We are given an executable `run_me`, which when run, vomits at us
 
 Since we know the format of the flag, let's put the vomit into an output file with `./run_me > out` and CTFL-F in `out` for `retro`
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Found it</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>Found it</p></figcaption></figure>
 
 ## Flag
 
