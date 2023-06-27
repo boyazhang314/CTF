@@ -12,8 +12,6 @@ The public GitHub repository is here [https://github.com/infosec-ucalgary/magpie
 
 The questions were really interesting and tested a good variety of skills. I really loved the cryptography challenge [Momma Says To Play Fair](momma-says-to-play-fair.md) and [Rubis](rubis.md), and though I didn't get all the OSINTs, the writeups were fun to read.
 
-I couldn't get a screenshot of my stats, but last I believe I ended with 24th place
-
 **Flags are of the format `magpie{...}`**
 
 ## OSINT
