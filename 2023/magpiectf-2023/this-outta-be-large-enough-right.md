@@ -118,7 +118,7 @@ Unfortunately, it didn't work as the program would just hang. I similarly tried 
 
 I had the correct payload, but I just couldn't send the payload in!
 
-After a bout of frustration, I settled down and coded up a Python script to communicate with the server
+Eventually, I settled down and coded up a Python script to communicate with the server
 
 ```python
 from pwn import *
