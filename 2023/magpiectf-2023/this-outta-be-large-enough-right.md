@@ -91,7 +91,7 @@ To spare the painful details, this amounts to 68 "A"s
 If you wanted to, doing 69 or more "A"s will cause 41 to seep into the stack pointer from the right. The reason why it comes in from the right is because it is in little endian
 
 {% hint style="info" %}
-**Little Endian** - The least sygnificant byte of the data is placed at the byte with the lowest address
+**Little Endian** - The least significant byte of the data is placed at the byte with the lowest address
 {% endhint %}
 
 So instead of 08 03 84 86 we get 86 84 04 08
